@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raihanki
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning about laravel, react and Go
+- 🌱 I’m currently learning about laravel, React, Go and Java
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
